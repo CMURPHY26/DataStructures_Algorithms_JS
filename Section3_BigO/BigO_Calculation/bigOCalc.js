@@ -12,3 +12,4 @@ function funChallenge(input) {
   }
   // O(3) + O(4n)
   //Big O Notation for the funChallenge function is O(3 + 4n)
+  //The above gets simplified to BIG O(n)
